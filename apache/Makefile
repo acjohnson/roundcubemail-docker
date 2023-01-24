@@ -1,4 +1,5 @@
-FULLTAG=roundcube/roundcubemail:1.6.1-apache-custom
+#FULLTAG=roundcube/roundcubemail:1.6.1-apache-custom
+FULLTAG=registry.thejohnsons.site/roundcube/roundcubemail:1.6.1-apache-custom
 DOCKERFILE=Dockerfile
 all: buildx
 
